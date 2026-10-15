@@ -1,25 +1,25 @@
 {
   "schema": 1,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publishedAt": "2026-10-16",
   "notes": {
-    "en": "Adds complete Czech localization for the configurator, preview, reports, and update dialogs.",
-    "cs": "Přidává kompletní český překlad konfigurátoru, náhledu, reportů a dialogů aktualizace.",
-    "de": "Fügt eine vollständige tschechische Lokalisierung für Konfigurator, Vorschau, Berichte und Update-Dialoge hinzu.",
-    "es": "Añade la localización completa al checo del configurador, la vista previa, los informes y los diálogos de actualización.",
-    "fr": "Ajoute la localisation tchèque complète du configurateur, de l'aperçu, des rapports et des boîtes de dialogue de mise à jour."
+    "en": "Adds the final Setup Sheet Studio app and toolbar icons, contextual F1 help, and Marketplace-ready packaging.",
+    "cs": "Přidává finální ikony aplikace a nástrojové lišty Setup Sheet Studio, kontextovou nápovědu F1 a balíček připravený pro Marketplace.",
+    "de": "Fügt die finalen Setup Sheet Studio App- und Symbolleisten-Icons, kontextbezogene F1-Hilfe und Marketplace-fertige Pakete hinzu.",
+    "es": "Añade los iconos finales de la aplicación y la barra de herramientas, ayuda contextual F1 y el paquete preparado para Marketplace.",
+    "fr": "Ajoute les icônes finales de l'application et de la barre d'outils, l'aide contextuelle F1 et le package prêt pour Marketplace."
   },
   "platforms": {
     "windows": {
-      "filename": "SetupSheetStudio-1.2.0-Windows.exe",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-Windows.exe",
-      "sha256": "9505f58795e22b8b2cb9202ac58218a687e87e7a21bf461f70278ea052a4a626",
-      "size": 247431
+      "filename": "SetupSheetStudio-1.2.1-Windows.exe",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.1/SetupSheetStudio-1.2.1-Windows.exe",
+      "sha256": "0de64246f858e23accc1612b7977e7f99ef37ca5256826ad008729a02b685781",
+      "size": 247505
     },
     "macos": {
-      "filename": "SetupSheetStudio-1.2.0-macOS.pkg",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-macOS.pkg",
-      "sha256": "a28b3f947d9f4742f492e81ddad93d4102f6ab8bf13ca62848b94f919907446a",
+      "filename": "SetupSheetStudio-1.2.1-macOS.pkg",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.1/SetupSheetStudio-1.2.1-macOS.pkg",
+      "sha256": "1081373eb0c516bc95e4bd9044c8af504798689f11b043d601b19fc8fee848bf",
       "size": 178931
     }
   }
