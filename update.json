@@ -1,25 +1,26 @@
 {
   "schema": 1,
-  "version": "1.1.1",
+  "version": "1.2.0",
   "publishedAt": "2026-10-15",
   "notes": {
-    "en": "Fixes installed add-in discovery and startup in Autodesk Fusion.",
-    "de": "Behebt die Erkennung und den Start des installierten Add-ins in Autodesk Fusion.",
-    "es": "Corrige la detección y el inicio del complemento instalado en Autodesk Fusion.",
-    "fr": "Corrige la détection et le démarrage du module installé dans Autodesk Fusion."
+    "en": "Adds complete Czech localization for the configurator, preview, reports, and update dialogs.",
+    "cs": "Přidává kompletní český překlad konfigurátoru, náhledu, reportů a dialogů aktualizace.",
+    "de": "Fügt eine vollständige tschechische Lokalisierung für Konfigurator, Vorschau, Berichte und Update-Dialoge hinzu.",
+    "es": "Añade la localización completa al checo del configurador, la vista previa, los informes y los diálogos de actualización.",
+    "fr": "Ajoute la localisation tchèque complète du configurateur, de l'aperçu, des rapports et des boîtes de dialogue de mise à jour."
   },
   "platforms": {
     "windows": {
-      "filename": "SetupSheetStudio-1.1.1-Windows.exe",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.1/SetupSheetStudio-1.1.1-Windows.exe",
-      "sha256": "029672b91fa4523e66d9351e9fe2ab7c0bb3476bec9f55caaf38533997a5ff6a",
-      "size": 157005
+      "filename": "SetupSheetStudio-1.2.0-Windows.exe",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-Windows.exe",
+      "sha256": "f3f88387f196828245a7859e0ad188428a82e2e2d201b00029bf9bd52888a6b5",
+      "size": 158982
     },
     "macos": {
-      "filename": "SetupSheetStudio-1.1.1-macOS.pkg",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.1/SetupSheetStudio-1.1.1-macOS.pkg",
-      "sha256": "49cfeec84f6122d0d1e306ad7084d586b338d80a190254e88e3fddaead619bfe",
-      "size": 90031
+      "filename": "SetupSheetStudio-1.2.0-macOS.pkg",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-macOS.pkg",
+      "sha256": "84eb4bdd96c29f010c58b02d78985f129b3de0342a33e1d454e87ceb4f099b6c",
+      "size": 92530
     }
   }
 }
