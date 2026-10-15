@@ -3,10 +3,10 @@
   "version": "1.1.1",
   "publishedAt": "2026-10-15",
   "notes": {
-    "en": "Adds automatic updates and expanded turning/milling tool setup details.",
-    "de": "Fügt automatische Updates und erweiterte Werkzeugdetails für Drehen/Fräsen hinzu.",
-    "es": "Añade actualizaciones automáticas y detalles ampliados de herramientas de torneado/fresado.",
-    "fr": "Ajoute les mises à jour automatiques et des détails d'outils de tournage/fraisage enrichis."
+    "en": "Fixes installed add-in discovery and startup in Autodesk Fusion.",
+    "de": "Behebt die Erkennung und den Start des installierten Add-ins in Autodesk Fusion.",
+    "es": "Corrige la detección y el inicio del complemento instalado en Autodesk Fusion.",
+    "fr": "Corrige la détection et le démarrage du module installé dans Autodesk Fusion."
   },
   "platforms": {
     "windows": {
