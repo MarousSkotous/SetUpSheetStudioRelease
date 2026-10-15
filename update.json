@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "version": "1.1.0",
+  "publishedAt": "2026-10-15",
+  "notes": {
+    "en": "Adds automatic updates and expanded turning/milling tool setup details.",
+    "de": "Fügt automatische Updates und erweiterte Werkzeugdetails für Drehen/Fräsen hinzu.",
+    "es": "Añade actualizaciones automáticas y detalles ampliados de herramientas de torneado/fresado.",
+    "fr": "Ajoute les mises à jour automatiques et des détails d'outils de tournage/fraisage enrichis."
+  },
+  "platforms": {
+    "windows": {
+      "filename": "SetupSheetStudio-1.1.0-Windows.exe",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.0/SetupSheetStudio-1.1.0-Windows.exe",
+      "sha256": "b25ad3fcd8872dc996b5cac6e6aeb30803cf5bc9fa8301c0cc54fecb069fadf8",
+      "size": 156943
+    },
+    "macos": {
+      "filename": "SetupSheetStudio-1.1.0-macOS.pkg",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.0/SetupSheetStudio-1.1.0-macOS.pkg",
+      "sha256": "7f3afabdc1c385e159621970e4d7f05e56abc5a750307c02f33a4853711d5e78",
+      "size": 89768
+    }
+  }
+}
