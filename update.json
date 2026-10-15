@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "version": "1.2.0",
-  "publishedAt": "2026-10-15",
+  "publishedAt": "2026-10-16",
   "notes": {
     "en": "Adds complete Czech localization for the configurator, preview, reports, and update dialogs.",
     "cs": "Přidává kompletní český překlad konfigurátoru, náhledu, reportů a dialogů aktualizace.",
@@ -13,14 +13,14 @@
     "windows": {
       "filename": "SetupSheetStudio-1.2.0-Windows.exe",
       "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-Windows.exe",
-      "sha256": "f3f88387f196828245a7859e0ad188428a82e2e2d201b00029bf9bd52888a6b5",
-      "size": 158982
+      "sha256": "9505f58795e22b8b2cb9202ac58218a687e87e7a21bf461f70278ea052a4a626",
+      "size": 247431
     },
     "macos": {
       "filename": "SetupSheetStudio-1.2.0-macOS.pkg",
       "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.2.0/SetupSheetStudio-1.2.0-macOS.pkg",
-      "sha256": "84eb4bdd96c29f010c58b02d78985f129b3de0342a33e1d454e87ceb4f099b6c",
-      "size": 92530
+      "sha256": "a28b3f947d9f4742f492e81ddad93d4102f6ab8bf13ca62848b94f919907446a",
+      "size": 178931
     }
   }
 }
