@@ -14,7 +14,7 @@ Both installers place the add-in in the current user's Autodesk
 `ApplicationPlugins` directory. User profiles and settings are kept separately
 and are not removed by an update.
 
-The installers in version 1.1.0 are not code-signed. Windows SmartScreen or
+The installers are not currently code-signed. Windows SmartScreen or
 macOS Gatekeeper may therefore ask for an additional confirmation. Published
 SHA-256 values are available in the matching checksum file.
 

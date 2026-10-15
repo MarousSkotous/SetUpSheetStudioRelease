@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publishedAt": "2026-10-15",
   "notes": {
     "en": "Adds automatic updates and expanded turning/milling tool setup details.",
@@ -10,16 +10,16 @@
   },
   "platforms": {
     "windows": {
-      "filename": "SetupSheetStudio-1.1.0-Windows.exe",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.0/SetupSheetStudio-1.1.0-Windows.exe",
-      "sha256": "3a7a05d354b39ff7ebf43bc7500745e77d5a376439c370f40a6e9a363c5b0d65",
-      "size": 157157
+      "filename": "SetupSheetStudio-1.1.1-Windows.exe",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.1/SetupSheetStudio-1.1.1-Windows.exe",
+      "sha256": "029672b91fa4523e66d9351e9fe2ab7c0bb3476bec9f55caaf38533997a5ff6a",
+      "size": 157005
     },
     "macos": {
-      "filename": "SetupSheetStudio-1.1.0-macOS.pkg",
-      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.0/SetupSheetStudio-1.1.0-macOS.pkg",
-      "sha256": "df22440bdcf1bd56d291a15a63691fe423e3b6490ba1180ea1ccab8e6873834f",
-      "size": 89939
+      "filename": "SetupSheetStudio-1.1.1-macOS.pkg",
+      "url": "https://github.com/MarousSkotous/SetUpSheetStudioRelease/releases/download/v1.1.1/SetupSheetStudio-1.1.1-macOS.pkg",
+      "sha256": "49cfeec84f6122d0d1e306ad7084d586b338d80a190254e88e3fddaead619bfe",
+      "size": 90031
     }
   }
 }

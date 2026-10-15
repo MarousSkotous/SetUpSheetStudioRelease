@@ -1,0 +1,2 @@
+029672b91fa4523e66d9351e9fe2ab7c0bb3476bec9f55caaf38533997a5ff6a  SetupSheetStudio-1.1.1-Windows.exe
+49cfeec84f6122d0d1e306ad7084d586b338d80a190254e88e3fddaead619bfe  SetupSheetStudio-1.1.1-macOS.pkg
